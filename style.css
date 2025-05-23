@@ -11,9 +11,9 @@
     width: 100px;
     height: 100px;
     border: 3px solid orange;
-    /* align-items: center;
+    display: flex;
     justify-content: center;
-    text-align: center; */
+    align-items: center;
 }
 
 .container {
@@ -26,3 +26,4 @@
     align-items: center;
     justify-content: center;
 }
+
